@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-quiz-platform-197144-197153/quiz_frontend"
+}
